@@ -7,6 +7,9 @@
 */
 
 // 3) What is a single page application?
+/* Instead of changing the html elements on the webpage, single page applications renders a virtual DOM on the top of the DOM and change the elements in the virtual DOM.
+*/
+
 // 4) What is a component ?
 // 5) What is the latest version of React?
 // 6) What is DOM?
