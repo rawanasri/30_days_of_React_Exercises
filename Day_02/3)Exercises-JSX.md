@@ -21,5 +21,13 @@ For an example the 'img' element needs a 'src' to find where the image source is
 ```
 
 *4) What is JSX?*
+
+JSX is a combination of JavaScript and XML. It is widely used in React to build components
+
 *5) What is babel?*
+
+Babel is a transpiler to convert JSX to just JavaScript
+
 *6) What is a transpiler?*
+
+Transpiler is a tool to convert one language to another.
