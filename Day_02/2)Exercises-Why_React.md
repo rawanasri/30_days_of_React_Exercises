@@ -1,14 +1,14 @@
-// 1) Why did you chose to use react?
-/* 
+*1) Why did you chose to use react?*
+ 
 React is one of the most popular front end libraries in existance.
-*/
 
-// 2) What measures do you use to know popularity ?
-/* 
+
+*2) What measures do you use to know popularity ?*
+ 
 GitHub stars and NPM Downloads can be used as ways to find most popular front end libraries/frameworks.
-*/
 
-// 3) What is more popular, React or Vue ?
-/* 
+
+*3) What is more popular, React or Vue ?*
+ 
 React
-*/
+
