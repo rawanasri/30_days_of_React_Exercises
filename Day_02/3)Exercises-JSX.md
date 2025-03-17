@@ -13,12 +13,12 @@ self closing HTML tags are written as "<\[element-name\]/>"
 
 *3) What is an HTML attribute? Write some of them*
 
+For an example the 'img' element needs a 'src' to find where the image source is.
+
 ```html
 <img src="./your-picture-here" />
 <a href="./your-link-here"></a>
 ```
-
-For an example the 'img' element needs a 'src' to find where the image source is.
 
 *4) What is JSX?*
 *5) What is babel?*
